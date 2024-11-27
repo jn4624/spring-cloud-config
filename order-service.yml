@@ -1,6 +1,6 @@
 spring:
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
-    url: jdbc:mariadb://localhost:3306/mydb
+    url: jdbc:mariadb://mariadb-container:3306/mydb
     username: root
     password: '{cipher}AQCA0L19SsuDlJYpTRR7SWsn7FWq+OU73RDze7NlA+QmZVkyTOg7tR43ZuVdG1F7mJhe9WJ9fjU610Ubkszq4b64m5pytSs8/XtUIk9zZ+iPv5ADErZOuOLl3Y2JEec0wtt4lS4oUpXuwA1GlnlVaDmWDkN2vOSTRlPE6ynAB9MKd9J4w5FMxOENrBgcCRKbDp84pPqE906tvxHnEnwmqCThGTEB58PMdxd+F+gRi5TEkbcJdmNdQAx2y16lDJysrAxdj/XgDp9HYsxxMV7lD7if8zApap6xX0NVqFcfjo/C+DdNBQzQm0aOaxydjdLnre9lv0kL1WkVdWtR7vsLdY415NqiMQE6JIJlE/efL2jQd8Q19R/XihN7DlfyGSrx7rg='
